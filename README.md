@@ -45,5 +45,5 @@ User stories;
 
 🔥 You can use [Coinranking Api](https://developers.coinranking.com/api/documentation) for your app. 
 
-🔥 You don’t need to create a new template for this project, you can use [Crypto-Coin-App](https://github.com/clarusway/clarusway-full-stack-tr-14/tree/main/javascript/projects/004-Crypto-Coin-App) template for html and css. We will be concerned in javascript side.
+🔥 You don’t need to create a new template for this project, you can use [Crypto-Coin-App](https://okan87.github.io/Crypto-coin-app/) template for html and css. We will be concerned in javascript side.
 
